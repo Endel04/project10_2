@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">project10_2</string>
     <string name="btn_done">투표 종류</string>
+    <string name="btn_back">돌아가기</string>
+    <string name="title">당신의 태현에게 투표하세요~!</string>
 </resources>
