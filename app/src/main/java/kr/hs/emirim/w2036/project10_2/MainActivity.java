@@ -9,6 +9,8 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
 
+// Change ViewFlipper
+
 public class MainActivity extends AppCompatActivity {
 
     String[] imgNames = {"TAEHYEON1", "TAEHYEON2", "TAEHYEON3", "TAEHYEON4", "TAEHYEON5", "TAEHYEON6", "TAEHYEON7", "TAEHYEON8", "TAEHYEON9"};

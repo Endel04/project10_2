@@ -9,12 +9,14 @@
     tools:context=".ResultActivity">
 
     <TextView
+        android:id="@+id/text_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:text="최다투표 이미지"/>
 
     <ImageView
+        android:id="@+id/imgv"
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:src="@drawable/i01"
